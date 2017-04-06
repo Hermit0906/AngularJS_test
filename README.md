@@ -1,0 +1,2 @@
+# AngularJS_test
+AngularJSの作成テストです。AngularJSの公式サイトのサンプルコードをもとにしています。
